@@ -1,9 +1,5 @@
 # Hi, I'm Khanix 👋
 
-**Software Engineer · Fintech · AI Systems**
-
-I'm a self-taught developer drawn to one core question: *how can software make sense of markets in real time?* That curiosity pushed me to build production systems that process live financial data, rank news by signal quality, and surface insights faster than most people can open a browser. I work at the intersection of systems engineering, financial data, and machine learning — and I'm just getting started.
-
 ---
 
 ## 🚀 Featured Project
